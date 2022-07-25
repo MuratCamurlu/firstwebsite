@@ -3,8 +3,64 @@ body{
     color: white;
 }
 .container{
-    border: 2px solid red;
+    /* border: 2px solid red; */
     width: 80%;
     margin: auto;
     background-color: gray;
+    border-radius: 20px;
+}
+
+.heading{
+    font-family: 'lobster', cursive;
+    text-align: center;
+}
+#span1{
+    color: red;
+}
+#img-div{
+    
+    text-align: center;
+    
+}
+#image{
+    width: 400px;
+}
+#info{
+    /* border: 1px solid red; */
+    font-size: 24px;
+    width: 80%;
+    margin:20px auto;
+    text-align: justify;
+}
+#date{
+    text-align: center;
+}
+#marvel{
+    color: red;
+    margin-left: 10%;
+}
+ul{
+    width: 80%;
+margin: auto;
+}
+#footer{
+    margin-left: 10%;
+    padding: 2rem;
+    text-align: center;
+    font-size: 2rem;
+}
+li{
+    font-size: 24px;
+
+}#link{
+    text-decoration: none;
+    color: white;
+    border: 2px solid darkorange;
+    padding: 1rem;
+    border-radius: 10px;
+    background-color: black;
+}
+#link:hover{
+    background-color: bisque;
+    color: red;
 }
